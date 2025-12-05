@@ -1,0 +1,12 @@
+{
+  "name": "apple-health-wrapped-parser",
+  "version": "1.0.0",
+  "description": "Parse Apple Health export.xml and generate activity summary",
+  "type": "module",
+  "scripts": {
+    "parse": "node parser.js"
+  },
+  "dependencies": {
+    "sax": "^1.3.0"
+  }
+}

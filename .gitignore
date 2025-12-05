@@ -1,0 +1,5 @@
+node_modules/
+export.xml
+summary.json
+*.log
+.DS_Store
